@@ -1,21 +1,16 @@
-# bookthAt ,Event Hall Booking App
-This project is a Flutter-based Android application for booking halls and conference rooms.
+# event_hall_booking_system
 
-## Features
-- User and Admin login
-- Browse and filter event halls
-- Book halls with date selections
-- Manage bookings
-- Admin management for halls, users, and bookings
+A new Flutter project.
 
-## Technologies Used
-- Flutter
-- Firebase (Authentication & Database)
+## Getting Started
 
-## How to Run
-1. Clone the repository
-2. Run `flutter pub get`
-3. Run `flutter run`
+This project is a starting point for a Flutter application.
 
-## Repository
-This repository is part of our academic project for Application Development.
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

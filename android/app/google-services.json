@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384953803168",
+    "project_id": "event-hall-booking-2025",
+    "storage_bucket": "event-hall-booking-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384953803168:android:d6ef99bd86b7902a4284c5",
+        "android_client_info": {
+          "package_name": "com.syaidaiman.eventhall.event_hall_booking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnyQ07CPIuXsF0mF81dVYL54ZZG_Lefk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
